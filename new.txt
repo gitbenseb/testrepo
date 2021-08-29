@@ -10,3 +10,27 @@ bob
 2021. 08. 28.  22:53                38 README.md
                2 File(s)             44 bytes
                2 Dir(s)  44ÿ153ÿ266ÿ176 bytes free
+ Volume in drive C has no label.
+ Volume Serial Number is 0C96-4812
+
+ Directory of c:\
+
+2021. 07. 24.  11:23    <DIR>          Bizony¡tv nyok
+2021. 08. 27.  22:02    <DIR>          Install Versions
+2021. 08. 25.  23:05    <DIR>          Intel
+2021. 08. 29.  10:02    <DIR>          Let”lt‚s
+2021. 07. 10.  14:22    <DIR>          Magasszintû programoz si nyelvek I
+2021. 07. 03.  10:08    <DIR>          Magasszintû programoz si nyelvek II
+2019. 12. 07.  11:14    <DIR>          PerfLogs
+2021. 08. 28.  22:08    <DIR>          Program Files
+2021. 07. 20.  21:03    <DIR>          Program Files (x86)
+2021. 01. 31.  08:38    <DIR>          Programoz s
+2021. 07. 28.  12:47    <DIR>          Scan
+2021. 08. 28.  18:45    <DIR>          Temp
+2021. 03. 10.  00:44    <DIR>          Users
+2021. 08. 19.  05:49    <DIR>          Windows
+2021. 03. 14.  15:23    <DIR>          Windows10Upgrade
+2021. 02. 12.  12:01    <DIR>          xampp
+2021. 08. 29.  00:05    <DIR>          éjratervez‚s
+               0 File(s)              0 bytes
+              17 Dir(s)   8ÿ181ÿ420ÿ032 bytes free
