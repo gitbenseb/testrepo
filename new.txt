@@ -1,1 +1,12 @@
 bob 
+ Volume in drive C has no label.
+ Volume Serial Number is 0C96-4812
+
+ Directory of C:\éjratervez‚s\testrepo
+
+2021. 08. 29.  09:03    <DIR>          .
+2021. 08. 29.  09:03    <DIR>          ..
+2021. 08. 29.  09:03                 6 new.txt
+2021. 08. 28.  22:53                38 README.md
+               2 File(s)             44 bytes
+               2 Dir(s)  44ÿ153ÿ266ÿ176 bytes free
